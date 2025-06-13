@@ -106,7 +106,7 @@ a
     right: 0;
     bottom: 0;
     color: white;
-    transform: translateY(100%);
+    transform: translateY(120%);
     transition: transform 0.1s;
 }
 .team .row .item:hover .team-caption
